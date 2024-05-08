@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library>
+    <book>
+        <title> Война и мир</title>
+        <author>Л.Н. Толстой</author>
+        <year>1867</year>
+    </book>
+    <book>
+        <title>Введите название новой книги:</title>
+        <author>Мастер и Маргарита</author>
+        <year>М.А. Булгаков</year>
+    </book>
+    <book>
+        <title>Тихий дон</title>
+        <author>М.А. Шолохов</author>
+        <year>1928</year>
+    </book>
+    <book>
+        <title>Над пропастью во ржи</title>
+        <author>Д.Д. Сэленджер</author>
+        <year>1951</year>
+    </book>
+    <book>
+        <title>овелитель мух</title>
+        <author>У. Голдинг</author>
+        <year>1954</year>
+    </book>
+</library>
